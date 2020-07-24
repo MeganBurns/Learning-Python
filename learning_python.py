@@ -25,7 +25,7 @@ https://www.learnpython.org/
 
 
 
-#/////FORMAT SPECIFIERS/////
+#/////STRING FORMATTING/////
 When printing a variable to the console, use a format specifier denoted by a %_ followed by the variable name. 
 e.g.
 print("The second name on the names list is %s" % second_name)
@@ -230,7 +230,7 @@ if big_list.count(x) == 10 and big_list.count(y) == 10:
     print("Great!")
 
 
-
+#/////STRING FORMATTING/////
 
 
 
